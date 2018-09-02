@@ -1,4 +1,4 @@
-# CloudSNAP: a transparent infrastructure for decentralized web deployment
+# CloudSNAP: a transparent PaaS for decentralized web deployment
 
 This platform uses distributed P2P interception (distributed AOP) techniques to build its transparent infrastructure. This transparency makes easier the transition from standard web systems to cloud platforms.
 
