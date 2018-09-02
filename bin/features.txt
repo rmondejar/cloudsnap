@@ -1,0 +1,14 @@
+- Web Deployer
+- War Partition 
+
+- Adaptive Activation
+- Session Tracking
+- Global Context
+- Replicated DataBase
+
+
+TODO : 
+
+- FrontPage : Jounin? Dermi -> EasyPastry, put "Outstanding Services or Features" ...
+- Activate WebService Container
+- TestApp -> DCalendar??

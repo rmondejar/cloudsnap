@@ -1,0 +1,10 @@
+<aspectwerkz>
+    <system id="DamonObservers">                    
+            <aspect class="damon.invokation.aspectwerkz.AspectInvokeObserver"></aspect>
+            <aspect class="damon.metalevel.aspectwerkz.MetaPointcutObserver"></aspect>
+            <aspect class="damon.timer.aspectwerkz.TimerObserver"></aspect>       
+    </system>   
+    <system id="SnapHooks">
+            <aspect class="org.objectweb.snap.concerns.SourceHooks"></aspect>
+    </system>             
+</aspectwerkz>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>
+Snap 2.0 Web-Application descriptor
+</comment>
+<entry key="appName">Snap 2.0 - Structured overlay Networks Application Platform</entry>
+<entry key="appContext">snap.objectweb.org</entry>
+<entry key="appP2PUrl">p2p://snap.objectweb.org</entry>
+<entry key="snapDistributedAspect_1">org.objectweb.snap.concerns.FrontSideLoadBalancer</entry>
+<entry key="snapDistributedAspect_X">org.objectweb.snap.concerns.HostMonitor</entry>
+<entry key="snapDistributedAspect_X">org.objectweb.snap.concerns.AdaptiveRedirector</entry>
+<entry key="snapDistributedAspect_X">org.objectweb.snap.concerns.DynamicActivator</entry>
+<entry key="snapDistributedAspect_X">org.objectweb.snap.concerns.SharedSession</entry>
+<entry key="snapDistributedAspect_Z">org.objectweb.snap.concerns.GlobalApplication</entry>
+<entry key="snapDistributedAspect_Y">org.objectweb.snap.concerns.ReplicatedDatabase</entry>
+</properties>
